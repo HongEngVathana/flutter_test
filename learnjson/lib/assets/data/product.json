@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 Pro Max",
+    "description": "Latest flagship smartphone with powerful A16 Bionic chip and ProMotion display.",
+    "price": 1099,
+    "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111846_sp875-sp876-iphone14-pro-promax.png",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S23 Ultra",
+    "description": "Premium Android smartphone with S Pen and impressive camera system.",
+    "price": 1199,
+    "image": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-kv.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro 14",
+    "description": "Powerful laptop with M2 Pro chip for demanding tasks.",
+    "price": 1999,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1728916305295",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "title": "Sony PlayStation 5",
+    "description": "Next-gen gaming console with stunning graphics and fast loading times.",
+    "price": 499,
+    "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-slim-disc-console-featured-hardware-image-block-02-en-15nov23?$1600px$",
+    "category": "Gaming"
+  },
+  {
+    "id": 5,
+    "title": "Nintendo Switch OLED",
+    "description": "Portable gaming console with vibrant OLED display.",
+    "price": 349,
+    "image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/en_US/switch/site-design-update/HEGS_001_heroWA_07_R_ad-0-OLED-V4",
+    "category": "Gaming"
+  },
+  {
+    "id": 6,
+    "title": "Apple Watch Series 8",
+    "description": "Smartwatch with advanced health tracking features.",
+    "price": 399,
+    "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111848_apple-watch-series8.png",
+    "category": "Wearables"
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy Watch 5",
+    "description": "Versatile smartwatch with long battery life and fitness tracking.",
+    "price": 279,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/ie/2208/gallery/ie-galaxy-watch5-44mm-sm-r910nzbaeua-533238950?$730_584_PNG$",
+    "category": "Wearables"
+  },
+  {
+    "id": 8,
+    "title": "Sony WH-1000XM5",
+    "description": "Premium noise-canceling headphones with excellent sound quality.",
+    "price": 399,
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/category-pages/nest-protect-a8560809-800x620.jpg?fmt=jpg&amp;wid=800&amp;hei=620",
+    "category": "Audio"
+  },
+  {
+    "id": 9,
+    "title": "Bose QuietComfort 45",
+    "description": "Comfortable noise-canceling headphones with long battery life.",
+    "price": 329,
+    "image": "https://assets.bosecreative.com/transform/4d324490-1c5d-42e4-b3b6-bd66b93a5b0b/QCHLE24_MoonstoneBlue_PDP_GALLERY_SF_01?quality=100&io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit",
+    "category": "Audio"
+  },
+  {
+    "id": 10,
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "description": "True wireless earbuds with active noise cancellation and adaptive EQ.",
+    "price": 249,
+    "image": "https://www.apple.com/v/airpods-pro/n/images/overview/magical_case__epo6duhktocy_large_2x.png",
+    "category": "Audio"
+  },
+  {
+    "id": 11,
+    "title": "Nikon Zfc",
+    "description": "Retro-style mirrorless camera with APS-C sensor.",
+    "price": 999,
+    "image": "https://images.contentstack.io/v3/assets/blt0e5ec1de4817c440/blt45d9a63b75308ecc/673e45f9a1f5a271ac04a458/bf-24-z7ii-col-1.png",
+    "category": "Photography"
+  },
+  {
+    "id": 12,
+    "title": "Canon EOS R50",
+    "description": "Versatile mirrorless camera with 4K video recording.",
+    "price": 899,
+    "image": "https://s7d1.scene7.com/is/image/canon/5811C012_eos-r50-rf-s18-45mm-f4-5-6-3-is-stm-lens-kit-black_primary?fmt=webp-alpha&fmt=webp-alpha",
+    "category": "Photography"
+  },
+  {
+    "id": 13,
+    "title": "DJI Mavic Air 2S",
+    "description": "Compact drone with 4K video recording and obstacle avoidance.",
+    "price": 799,
+    "image": "https://www.d1store.com.au/images/products/[PRODUCT-THUMB]-MAVIC-AIR-2-FMC-01-v1.jpg",
+    "category": "Drones"
+  },
+  {
+    "id": 14,
+    "title": "Apple iPad Pro (12.9-inch)",
+    "description": "Powerful tablet for productivity and creativity.",
+    "price": 1099,
+    "image": "https://www.apple.com/v/ipad-pro/ar/images/overview/contrast/product-tile/ipad_air__crdt2g2u9z0i_large_2x.jpg",
+    "category": "Tablets"
+  },
+  {
+    "id": 15,
+    "title": "Samsung Galaxy Tab S8 Ultra",
+    "description": "Large-screen tablet with S Pen and powerful performance.",
+    "price": 1099,
+    "image": "https://images.samsung.com/levant/galaxy-tab-s8/feature/galaxy-tab-s8-graphite-front-display-drawing.jpg",
+    "category": "Tablets"
+  },
+  {
+    "id": 16,
+    "title": "Dell XPS 13",
+    "description": "Premium laptop with stunning display and powerful performance.",
+    "price": 1299,
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=575&qlt=100,1&resMode=sharp2&size=575,402&chrss=full",
+    "category": "Laptops"
+  },
+  {
+    "id": 17,
+    "title": "HP Spectre x360",
+    "description": "Versatile 2-in-1 laptop with stylish design and long battery life.",
+    "price": 1399,
+    "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08799380.png?impolicy=Png_Res&imwidth=270&imdensity=1",
+    "category": "Laptops"
+  },
+  {
+    "id": 18,
+    "title": "Sony A7 IV",
+    "description": "Full-frame mirrorless camera with high-resolution sensor and 4K video recording.",
+    "price": 2499,
+    "image": "https://d1ncau8tqf99kp.cloudfront.net/converted/92650_original_local_1200x1050_v3_converted.webp",
+    "category": "Photography"
+  },
+  {
+    "id": 19,
+    "title": "Logitech G Pro X Superlight",
+    "description": "Lightweight gaming mouse with high-precision sensor.",
+    "price": 149,
+    "image": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-gallery-1.png?v=1",
+    "category": "Gaming"
+  }
+]
